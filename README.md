@@ -4,3 +4,4 @@ repository di prova
 contenuto cartelle:
 -a
 -b
+-c
